@@ -1,0 +1,6 @@
+E:\C#\homework2\Question3\bin\Debug\Question3.exe.config
+E:\C#\homework2\Question3\bin\Debug\Question3.exe
+E:\C#\homework2\Question3\bin\Debug\Question3.pdb
+E:\C#\homework2\Question3\obj\Debug\Question3.csproj.CoreCompileInputs.cache
+E:\C#\homework2\Question3\obj\Debug\Question3.exe
+E:\C#\homework2\Question3\obj\Debug\Question3.pdb
